@@ -1,0 +1,12 @@
+C:\Users\Reza_Atom\source\repos\E-Namad\E-Namad\bin\Debug\E-Namad.exe.config
+C:\Users\Reza_Atom\source\repos\E-Namad\E-Namad\bin\Debug\E-Namad.exe
+C:\Users\Reza_Atom\source\repos\E-Namad\E-Namad\bin\Debug\E-Namad.pdb
+C:\Users\Reza_Atom\source\repos\E-Namad\E-Namad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Reza_Atom\source\repos\E-Namad\E-Namad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Reza_Atom\source\repos\E-Namad\E-Namad\obj\Debug\E_Namad.Form1.resources
+C:\Users\Reza_Atom\source\repos\E-Namad\E-Namad\obj\Debug\E_Namad.Properties.Resources.resources
+C:\Users\Reza_Atom\source\repos\E-Namad\E-Namad\obj\Debug\E-Namad.csproj.GenerateResource.Cache
+C:\Users\Reza_Atom\source\repos\E-Namad\E-Namad\obj\Debug\E-Namad.csproj.CoreCompileInputs.cache
+C:\Users\Reza_Atom\source\repos\E-Namad\E-Namad\obj\Debug\E-Namad.exe
+C:\Users\Reza_Atom\source\repos\E-Namad\E-Namad\obj\Debug\E-Namad.pdb
+C:\Users\Reza_Atom\source\repos\E-Namad\E-Namad\obj\Debug\E-Namad.csproj.CopyComplete
